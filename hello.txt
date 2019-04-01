@@ -1,1 +1,3 @@
-hello global
+hello global 。。。。。。
+yes
+no
