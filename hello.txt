@@ -1,4 +1,4 @@
-hello global 。。。。。。
+﻿hello global 。。。。。。
 yes
 no。。。。。。
 ll
@@ -12,3 +12,5 @@ asdg
 asdg
 哎呀妈呀
 不能说的秘密
+Free world会为我感动
+
