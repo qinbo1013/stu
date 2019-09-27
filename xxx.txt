@@ -10,4 +10,8 @@ qewtqweqwe
 link out user
 how do you do
 hello git world
+<<<<<<< HEAD
 yijian
+=======
+yes i'm winner
+>>>>>>> origin/new_branch
